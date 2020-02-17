@@ -4,13 +4,13 @@
 Programa que a partir de un dibujo hecho por el usuario genera una figura 3D.
 
 ## Introducción 
-El programa desarrollado permite al usuario marcar puntos haciendo click en la mitad derecha de la pantalla. Cada uno de los puntos será un vértice en cada cara dibujada en la figura 3D, de tal manera que el resultado final sea el resultado de rotar las lineas que unen los puntos vertices marcados alrededor del eje Y central en la pantalla. 
+El programa desarrollado permite al usuario marcar puntos haciendo click en la mitad derecha de la pantalla. Cada uno de los puntos será un vértice en cada cara dibujada en la figura 3D, de tal manera que el resultado final sea el resultado de rotar las líneas que unen los puntos vértices marcados alrededor del eje Y central en la pantalla. 
 Una vez obtenida la figura 3D, el usuario puede moverla y rotarla para verla mejor.
 
 ## Instrucciones
-Si bien en la pantalla de de dibujo 2D se muestran las instrucciones a la derecha, las repasaremos aquí.
+Si bien en la pantalla de dibujo 2D se muestran las instrucciones a la izquierda, las repasaremos aquí.
 ### En pantalla 2D:
-- Click izquierdo: Añade un vértice al dibujo en 2D. Si se dibujó un punto anteriormente se mostrará la linea que los une y que luego formará la superficie de la figura 3D.
+- Click izquierdo: Añade un vértice al dibujo en 2D. Si se dibujó un punto anteriormente se mostrará la línea que los une y que luego formará la superficie de la figura 3D.
 - Click derecho: Borra el último punto creado.
 
 
