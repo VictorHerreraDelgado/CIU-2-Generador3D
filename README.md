@@ -32,7 +32,7 @@ Por último, dado que el dibujo se haría solo en una mitad de la pantalla se op
 
 
 ## Funcionamiento
-
+![](Practica2.gif)
 
 ## Herramientas
 
